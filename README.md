@@ -6,7 +6,7 @@ This Ideathon invites participants to explore innovative applications of prompt 
 
 The goal is to develop solutions that leverage the potential of large language models (LLMs) to transform how we interact with, analyze, and derive insights from tabular data.
 #
-# Key Features Participants Could Focus On:
+# 2) Key Features Participants Could Focus On:
 
 **a) Data Cleaning and Preprocessing:**
 
@@ -36,27 +36,27 @@ Using prompt-engineered techniques to detect and explain anomalies within the da
 
 Leveraging LLMs to suggest or auto-generate visualizations tailored to specific user queries or dataset features, enhancing interpretability.
 #
-Key Focus Elements:
-Prompt Effectiveness:
+# 3) Key Focus Elements:
+**a) Prompt Effectiveness:**
 
 The clarity, precision, and structure of the designed prompts in achieving the desired tabular data task.
 
-Accuracy and Relevance:
+**b) Accuracy and Relevance:**
 
 The quality of outputs generated using prompt engineering, especially for critical tasks like data cleaning, analysis, and feature engineering.
 
-Scalability Across Data Domains:
+**c) Scalability Across Data Domains:**
 
 The ability to apply the solutions to diverse types of tabular datasets, from financial records to scientific measurements.
 
-User Experience and Accessibility:
+**d) User Experience and Accessibility:**
 
 Creating user-friendly interfaces or workflows for non-technical users to benefit from prompt-based tabular data solutions.
 
-Innovation in Techniques:
+**e) Innovation in Techniques:**
 
 Novel approaches to integrating prompt engineering with traditional tabular data methodologies, setting new benchmarks in AI-driven analytics.
-
+#
 Submission Requirements:
 Participants should provide:
 
