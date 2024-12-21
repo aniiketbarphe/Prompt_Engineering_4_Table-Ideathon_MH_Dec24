@@ -86,51 +86,65 @@ Novel approaches to integrating prompt engineering with traditional tabular data
 
 **Step 2:** Upload the prepared solution PDF for the Ideathon.
 #
-Rules:
-ONE ACCOUNT PER PARTICIPANT
+**6) Rules:**
+
+**⭐ ONE ACCOUNT PER PARTICIPANT**
+
 One account per participant. Submissions from multiple accounts will lead to disqualification. All registered users are eligible to participate in the hackathon. We ask that you respect the spirit of the competition and do not cheat.
 
-NO PRIVATE SHARING OUTSIDE TEAMS
+**⭐NO PRIVATE SHARING OUTSIDE TEAMS**
+
 No private sharing outside teams. Any discrepancies reported will be taken seriously and can lead to disqualification.
 
-SUBMISSION LIMITS
+**⭐SUBMISSION LIMITS**
+
 The submission limit for the hackathon is 3 per day after which the submission will not be evaluated All registered users are eligible to participate in the hackathon We ask that you respect the spirit of the competition and do not cheat.
+#
+**7) Additional Rules:**
 
-Additional Rules:
-Plagiarism & AI-generated content policy:
+**⭐Plagiarism & AI-generated content policy:**
 
-Provide citations to the original sources from where references around some information, logic, or facts have been made. In case the citations are not provided, the submission will be scrutinized and interpreted to be plagiarised. 
-For the parts of the text where AI tools like ChatGPT, Copilot, etc. are used, justify how they were used (in a dedicated citation section). The submissions will be examined concerning similarity with the GPT-generated text and will be penalized in case the submission contains elements similar to AI-generated text in the majority or without proper citation reference.
-The jury team will review the submissions seriously with respect to plagiarism and AI-generated content policy and holds the right to disqualify submissions not adhering to the competition criteria.
+👉 Provide citations to the original sources from where references around some information, logic, or facts have been made. In case the citations are not provided, the submission will be scrutinized and interpreted to be plagiarised. 
+
+👉 For the parts of the text where AI tools like ChatGPT, Copilot, etc. are used, justify how they were used (in a dedicated citation section). The submissions will be examined concerning similarity with the GPT-generated text and will be penalized in case the submission contains elements similar to AI-generated text in the majority or without proper citation reference.
+
+👉 The jury team will review the submissions seriously with respect to plagiarism and AI-generated content policy and holds the right to disqualify submissions not adhering to the competition criteria.
 Refer to this document for reference on the expected submission format.
 
-The blog post topic must align with the category provided. Topics outside the theme will not be accepted.
-Each entry must be a minimum of 500 words and must not exceed 1500 words.
-Submissions must be made in English, and any quotes or references must be properly cited.
-Images and multimedia are encouraged, but they must be royalty-free or otherwise properly credited in the citation section.
-The deadline for submissions is strictly enforced. Late entries will not be considered.
-Judges' decisions are final and binding. Feedback on entries may not be provided.
-Participants' work will be featured on the MachineHack portal with proper credit for submission and work retained with the authors. Participants acknowledge allowing the MachineHack portal to use their content for promotional materials with proper credit retained to them.
-Violation of any rules may result in disqualification and removal from the competition.
+👉 The blog post topic must align with the category provided. Topics outside the theme will not be accepted.
 
-EVALUATION:
+👉 Each entry must be a minimum of 500 words and must not exceed 1500 words.
 
-Prompt Effectiveness (30%):
+👉 Submissions must be made in English, and any quotes or references must be properly cited.
+
+👉 Images and multimedia are encouraged, but they must be royalty-free or otherwise properly credited in the citation section.
+
+👉  The deadline for submissions is strictly enforced. Late entries will not be considered.
+
+👉 Judges' decisions are final and binding. Feedback on entries may not be provided.
+
+👉 Participants' work will be featured on the MachineHack portal with proper credit for submission and work retained with the authors. Participants acknowledge allowing the MachineHack portal to use their content for promotional materials with proper credit retained to them.
+
+👉 Violation of any rules may result in disqualification and removal from the competition.
+#
+**8) EVALUATION:**
+
+**⭐Prompt Effectiveness (30%):**
 
 The clarity, precision, and impact of the prompts in achieving the desired outcomes for tabular data tasks, such as cleaning, analysis, or visualization.
 
-Task Accuracy (25%):
+**⭐Task Accuracy (25%):**
 
 The quality and relevance of the outputs generated for key tasks, including correctness in data handling and interpretation.
 
-Demonstration and Examples (20%):
+**⭐Demonstration and Examples (20%):**
 
 Quality and variety of examples provided to showcase the solution. This includes realistic use cases, well-documented demonstrations, and reproducible results.
 
-Scalability and Versatility (15%):
+**⭐Scalability and Versatility (15%):**
 
 The ability of the solution to adapt across different datasets, domains, and varying levels of complexity in tabular data.
 
-Innovation and Technical Approach (10%):
+**⭐Innovation and Technical Approach (10%):**
 
 Novel ideas and techniques in prompt engineering and their integration with tabular data processing methodologies.
