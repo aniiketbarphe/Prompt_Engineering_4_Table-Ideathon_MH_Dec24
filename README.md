@@ -60,7 +60,7 @@ Novel approaches to integrating prompt engineering with traditional tabular data
 #
 **4) Submission Requirements:**
 
-**a) Participants should provide:**
+**Participants should provide:**
 
 👉 A runnable application or codebase demonstrating their solution.
 
@@ -69,23 +69,23 @@ Novel approaches to integrating prompt engineering with traditional tabular data
 👉 Results showcasing the application’s effectiveness on sample datasets.
 
 👉 We’re excited to see how participants leverage prompt engineering to solve challenges in tabular data tasks.
+#
+**5) Submission Steps:**
 
-Submission Steps:
+**Method 1:** Writing Private MachineHack Blog
 
-Method 1: Writing Private MachineHack Blog
+**Step 1:** Write a custom blog on your MachineHack platform detailing your solution & outcomes between 500-1500 words! ✍️
 
-Step 1: Write a custom blog on your MachineHack platform detailing your solution & outcomes between 500-1500 words! ✍️
+**Step 2:** Submit the blog for review. The submitted blog will be published within 6 hrs after review by the MachineHack team! 📢
 
-Step 2: Submit the blog for review. The submitted blog will be published within 6 hrs after review by the MachineHack team! 📢
+**Step 3:** Share the link to the published MachineHack blog in the submission tab.
 
-Step 3: Share the link to the published MachineHack blog in the submission tab.
+**Method 2:** Uploading PDF
 
-Method 2: Uploading PDF
+**Step 1:** Prepare a local PDF document detailing your solution & outcomes between 500-1500 words! ✍️
 
-Step 1: Prepare a local PDF document detailing your solution & outcomes between 500-1500 words! ✍️
-
-Step 2: Upload the prepared solution PDF for the Ideathon.
-
+**Step 2:** Upload the prepared solution PDF for the Ideathon.
+#
 Rules:
 ONE ACCOUNT PER PARTICIPANT
 One account per participant. Submissions from multiple accounts will lead to disqualification. All registered users are eligible to participate in the hackathon. We ask that you respect the spirit of the competition and do not cheat.
