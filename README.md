@@ -8,31 +8,31 @@ The goal is to develop solutions that leverage the potential of large language m
 #
 # Key Features Participants Could Focus On:
 
-# a) Data Cleaning and Preprocessing:
+**a) Data Cleaning and Preprocessing:**
 
 Using prompts to automate tasks like missing value imputation, outlier detection, and data normalization. Participants can showcase techniques to enhance data quality efficiently.
 
-# b) Feature Engineering:
+**b) Feature Engineering:**
 
 Creating innovative prompt-based methods to identify meaningful features, generate new ones, or transform existing features, optimizing tabular datasets for downstream tasks.
 
-# c) Insights and Summary Generation:
+**c) Insights and Summary Generation:**
 
 Crafting prompts to generate insightful summaries or narratives about datasets, highlighting key trends, patterns, and anomalies in an intuitive, human-readable format.
 
-# d) Natural Language Queries for Data Analysis:
+**d) Natural Language Queries for Data Analysis:**
 
 Developing systems that use prompts to translate natural language queries into actionable analyses or SQL queries, enabling non-technical users to interact seamlessly with tabular data.
 
-# e) Multi-Table Joins and Schema Understanding:
+**e) Multi-Table Joins and Schema Understanding:**
 
 Exploring how prompt engineering can help in integrating data from multiple tables, understanding relationships, and producing meaningful insights.
 
-# f) Outlier and Anomaly Detection:
+**f) Outlier and Anomaly Detection:**
 
 Using prompt-engineered techniques to detect and explain anomalies within the data, potentially combining statistical methods with generative AI capabilities.
 
-# g) Advanced Visualization Recommendations:
+**g) Advanced Visualization Recommendations:**
 
 Leveraging LLMs to suggest or auto-generate visualizations tailored to specific user queries or dataset features, enhancing interpretability.
 #
