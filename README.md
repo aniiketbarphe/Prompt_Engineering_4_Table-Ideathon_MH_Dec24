@@ -5,7 +5,7 @@
 This Ideathon invites participants to explore innovative applications of prompt engineering to solve challenges in working with tabular data. With the rapid advancements in generative AI, crafting effective prompts has become a cornerstone for achieving high-quality results in tasks involving tabular datasets. Participants will design and demonstrate approaches that utilize prompt engineering to address key challenges in tabular data processing, analysis, and interpretation.
 
 The goal is to develop solutions that leverage the potential of large language models (LLMs) to transform how we interact with, analyze, and derive insights from tabular data.
-
+#
 Key Features Participants Could Focus On:
 Data Cleaning and Preprocessing:
 
